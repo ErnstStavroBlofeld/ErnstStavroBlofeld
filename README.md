@@ -1,2 +1,3 @@
-git commit -m "Hi!" <br>
-git push origin master
+$ git commit -m "Hi!" <br>
+$ git push origin master <br>
+$ exit
